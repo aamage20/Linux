@@ -52,7 +52,7 @@
 
 
 ----
-# Day-4 : Mastering the Linux Prompt
+# Linux Prompt
 
 ## Understanding the Linux Command Prompt
 The Linux command prompt is a powerful interface for interacting with your operating system. It allows users to execute commands, manage files, and perform administrative tasks efficiently. The prompt typically looks like this:
@@ -138,7 +138,7 @@ Mastering these elements will empower you to utilize Linux effectively and confi
 
 ----
 
-# Day 5: Delving Deep into the Linux File System
+# The Linux File System
 
 ## Navigating the File System
 Understanding how to navigate the Linux file system is fundamental to using the operating system effectively. The Linux file system is organized as a hierarchy, starting from the root directory `/`.
@@ -211,7 +211,6 @@ Efficiently manage files using the following commands:
 Mastering the Linux file system commands will make navigating, managing, and editing files more efficient. Practice these commands regularly to build confidence and streamline your workflow.
 
 ---
-# Day 6: Delving Deep into the Linux File System
 
 ## Mastering the Linux File System Hierarchy
 The Linux file system hierarchy is designed to organize files and directories logically and efficiently. Understanding its structure is crucial for navigating and managing the operating system effectively.
@@ -308,7 +307,7 @@ Understanding the Linux file system hierarchy and shortcuts enhances your abilit
 
 
 ----
-# Day 7: Mastering Text Editing with VIM
+# Text Editing with VIM
 
 ## Overview of Vim and Its History
 Vim (Vi IMproved) is a powerful and versatile text editor widely used in the Linux ecosystem. Originating from the Vi editor, Vim offers enhanced features such as syntax highlighting, plugins, and an extensive set of commands.
@@ -456,7 +455,6 @@ Exit Insert Mode and return to Command Mode:
 Mastering Vim requires practice and familiarity with its modes and commands. Experiment with the provided practical exercises to build your confidence in using this powerful text editor.
 
 ---
-# Day 8: The Editor's Lair: Mastering Text Editing with VIM
 
 ## Entering Execute Mode
 Execute Mode allows you to run commands for file operations, searching, and other advanced functionalities. To enter Execute Mode, press:
@@ -590,7 +588,7 @@ Once text is selected in Visual Mode, you can manipulate it:
 With practice, Vim becomes an indispensable tool for efficient text editing. This session equips you with the skills to navigate, edit, and manipulate text files confidently.
 
 ---
-# Day 9: Managing Users and Permissions in Linux
+# Managing Users and Permissions in Linux
 
 ## Overview of User and Permission Management
 User and permission management is essential for securing a Linux system and controlling access to resources. This involves creating, modifying, and managing users, groups, and permissions to ensure proper access control.
@@ -1026,7 +1024,7 @@ vigr  # Edit /etc/group
 By following these practices and using the mentioned commands, you can effectively manage users, passwords, and groups in Linux.
 ----
 
-# Day 11: Managing Users and Permissions in Linux
+# Managing Users and Permissions in Linux
 
 ## Importance of File Permissions in Linux
 File permissions play a vital role in Linux security and system stability. They determine who can read, write, or execute files and directories, protecting sensitive data and preventing accidental or malicious changes.
@@ -1165,7 +1163,6 @@ System-defined file types are pre-configured by Linux to manage system functiona
 Feel free to experiment with these commands to better understand Linux permissions and file types.
 
 ----
-# Day 12: Managing Users and Permissions in Linux
 
 ## **Link Count Basics**
 ### Overview
